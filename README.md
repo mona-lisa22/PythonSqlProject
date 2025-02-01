@@ -1,4 +1,4 @@
-# PythonSqlProject
+# Data cleaning and Transformation using Pandas
 
 This project automates the process of importing retail data from a CSV file into a MySQL database. It handles data cleaning, transformation, and efficient insertion to prepare the data for analysis
 
